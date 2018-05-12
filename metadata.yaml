@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '28373'
     url: http://www.gutenberg.org/2009/agents/28373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42738#-Pater-Paulus-Ivailu-yhdess--n-yt-ksess-
 gutenberg_issued: '2013-05-19'
 gutenberg_type: Text
 identifiers:
